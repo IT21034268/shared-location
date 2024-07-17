@@ -1,3 +1,5 @@
+====================================================================================================================================
+
 # Import Necessary Libraries
 import pandas as pd
 import base64
@@ -16,7 +18,12 @@ def create_download_link(data_frame, title, file_name):
 # Specify Input parameters
 resource_url_1 = 'https://github.com/IT21034268/shared-location/raw/other-data-01/magic-secondary-mushrooms/primary-data.csv'
 my_title_1 = 'Download Link'
-my_file_name_1 = 'primary_data.xlsx'
+my_file_name_1 = 'primary-data.xlsx'
+
+====================================================================================================================================
+
+# Generate pandas DataFrame
+my_data_frame_1 = pd.read_csv(resource_url_1, sep=';')
 
 ====================================================================================================================================
 
@@ -29,7 +36,7 @@ display(HTML(download_link_1))
 # Specify Input parameters
 resource_url_2 = 'https://github.com/IT21034268/shared-location/raw/other-data-01/magic-secondary-mushrooms/secondary-data.csv'
 my_title_2 = 'Download Link'
-my_file_name_2 = 'secondary_data.xlsx'
+my_file_name_2 = 'secondary-data.xlsx'
 
 ====================================================================================================================================
 
