@@ -9,7 +9,6 @@ Amanita Family,Destroying Angel,p,[5, 10],[b],[t],[w],[f],[e],[c],[w],[10, 15],[
 Amanita Family,Tawny Grisette,e,[4, 8],[c, x],[h, t],[n],[f],[e],empty,[w],[10, 15],[10, 15],empty,[s],[w, n],[u],[w],[f],[f],empty,[d],[u, a]
 Lepiota Family,Parasol Mushroom,e,[10, 25],[p, f],[y],[w, n],[f],empty,empty,[w],[15, 35],[15, 25],[s],empty,[n],empty,empty,[t],[m],empty,[m, d],[u, a]
 Lepiota Family,Shaggy Parasol,e,[12, 18],[x],[e, y],[n],[t],[e],empty,[w],[8, 12],[15, 20],empty,empty,[w],empty,empty,[t],empty,empty,[g, d],[u, a]
-Lepiota Family,Stinking Parasol,p,[2, 5],[b, f],[y],[e, n, p, w],[f],[e],[c],[n, w],[3, 6],[3, 4],empty,[k],[w],empty,empty,[t],[e],empty,[m, d],[u, a]
 Tricholoma Family,Saffron Parasol,p,[2, 5],[x],[y],[y, n],[f],[a],empty,[w],[4, 7],[3, 4],empty,[y],[y, n],empty,empty,[t],[r],empty,[g, h, d],[u, a]
 Tricholoma Family,The Deceiver,e,[1, 4],[f, s],[y],[n],[f],[a, d],[d],[p],[3, 10],[2, 5],empty,[i],[n],empty,empty,[f],[f],empty,[l, h],[u, a]
 Tricholoma Family,Amethyst Deceiver,e,[1, 4],[x],empty,[b, u],[f],empty,[d],[u, w],[4, 8],[3, 6],empty,empty,[w],empty,empty,[f],[f],empty,[d],[u, a, w]
